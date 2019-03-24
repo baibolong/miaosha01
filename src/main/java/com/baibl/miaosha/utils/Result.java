@@ -2,6 +2,7 @@ package com.baibl.miaosha.utils;
 
 public class Result {
 
+    //信息
     private String msg;
     //
     private String code;
