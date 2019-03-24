@@ -3,6 +3,7 @@ package com.baibl.miaosha.utils;
 public class Result {
 
     private String msg;
+    //
     private String code;
 
 
